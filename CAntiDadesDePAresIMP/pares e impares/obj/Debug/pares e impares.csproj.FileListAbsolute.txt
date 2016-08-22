@@ -1,0 +1,17 @@
+c:\users\saul\documents\visual studio 2012\Projects\pares e impares\pares e impares\bin\Debug\pares e impares.exe.config
+c:\users\saul\documents\visual studio 2012\Projects\pares e impares\pares e impares\bin\Debug\pares e impares.exe
+c:\users\saul\documents\visual studio 2012\Projects\pares e impares\pares e impares\bin\Debug\pares e impares.pdb
+c:\users\saul\documents\visual studio 2012\Projects\pares e impares\pares e impares\obj\Debug\pares e impares.exe
+c:\users\saul\documents\visual studio 2012\Projects\pares e impares\pares e impares\obj\Debug\pares e impares.pdb
+C:\Users\Acer\Documents\Visual Studio 2012\Projects\netbeans para visual c#\CAntiDadesDePAresIMP\pares e impares\bin\Debug\pares e impares.exe.config
+C:\Users\Acer\Documents\Visual Studio 2012\Projects\netbeans para visual c#\CAntiDadesDePAresIMP\pares e impares\obj\Debug\pares e impares.exe
+C:\Users\Acer\Documents\Visual Studio 2012\Projects\netbeans para visual c#\CAntiDadesDePAresIMP\pares e impares\obj\Debug\pares e impares.pdb
+C:\Users\Acer\Documents\Visual Studio 2012\Projects\netbeans para visual c#\CAntiDadesDePAresIMP\pares e impares\bin\Debug\pares e impares.exe
+C:\Users\Acer\Documents\Visual Studio 2012\Projects\netbeans para visual c#\CAntiDadesDePAresIMP\pares e impares\bin\Debug\pares e impares.pdb
+C:\Users\Acer\Documents\Visual Studio 2012\Projects\netbeans para visual c#\CAntiDadesDePAresIMP\pares e impares\obj\Debug\pares e impares.csprojResolveAssemblyReference.cache
+C:\Users\Acer\Documents\Visual Studio 2012\Projects\100ejercicios de estructura\CAntiDadesDePAresIMP\pares e impares\bin\Debug\pares e impares.exe.config
+C:\Users\Acer\Documents\Visual Studio 2012\Projects\100ejercicios de estructura\CAntiDadesDePAresIMP\pares e impares\obj\Debug\pares e impares.exe
+C:\Users\Acer\Documents\Visual Studio 2012\Projects\100ejercicios de estructura\CAntiDadesDePAresIMP\pares e impares\obj\Debug\pares e impares.pdb
+D:\salvados disco C\Visual Studio 2012\Projects\100ejercicios de estructura\CAntiDadesDePAresIMP\pares e impares\bin\Debug\pares e impares.exe.config
+D:\salvados disco C\Visual Studio 2012\Projects\100ejercicios de estructura\CAntiDadesDePAresIMP\pares e impares\obj\Debug\pares e impares.exe
+D:\salvados disco C\Visual Studio 2012\Projects\100ejercicios de estructura\CAntiDadesDePAresIMP\pares e impares\obj\Debug\pares e impares.pdb
